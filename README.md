@@ -1,2 +1,2 @@
 # trash-code
-just a little code
+just some little code
